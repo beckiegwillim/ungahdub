@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eighohseec.daneweber.com/sitemap.xml
